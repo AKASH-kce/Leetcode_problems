@@ -1,5 +1,4 @@
 
-
 public class doubly{
     Node head=null;
     static class Node{
